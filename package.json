@@ -1,0 +1,12 @@
+{
+  "name": "ricochet-exchange-sfcontracts-used",
+  "version": "1.0.0",
+  "description": "SuperFluid contracts customized by Ricochet-Exchange",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ricochet team",
+  "license": "ISC"
+}
