@@ -6,7 +6,7 @@
   "homepage": "https://github.com/Ricochet-Exchange/protocol-monorepo",
   "repository": {
     "type": "git",
-    "url": "git+"https://github.com/josealonso/ricochet-exchange-SFContracts-used.git"
+    "url": "git+https://github.com/josealonso/ricochet-exchange-SFContracts-used.git"
    },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
