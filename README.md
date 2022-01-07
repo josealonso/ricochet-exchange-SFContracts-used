@@ -23,4 +23,5 @@ This package can be used by ricochet contributors instead of having to modify th
 
 2.- Replace *@superfluid-finance/ethereum-contracts* by *ricochet-exchange-sfcontracts-used* in the *import* expressions.
 
+3.- The dependency *@superfluid-finance/ethereum-contracts* can be removed from the *package.json* file.
 

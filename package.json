@@ -1,12 +1,12 @@
 {
   "name": "ricochet-exchange-sfcontracts-used",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SuperFluid contracts customized by Ricochet-Exchange",
   "main": "index.js",
   "homepage": "https://github.com/Ricochet-Exchange/protocol-monorepo",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ricochet-Exchange/protocol-monorepo.git"
+    "url": "git+"https://github.com/josealonso/ricochet-exchange-SFContracts-used.git"
    },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
