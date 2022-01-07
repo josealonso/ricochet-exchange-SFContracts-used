@@ -3,10 +3,19 @@
   "version": "1.0.0",
   "description": "SuperFluid contracts customized by Ricochet-Exchange",
   "main": "index.js",
+  "homepage": "https://github.com/Ricochet-Exchange/protocol-monorepo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ricochet-Exchange/protocol-monorepo.git","
+   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "github",
+    "blockchain",
+    "Superfluid ecosystem" 
+  ],
   "author": "Ricochet team",
   "license": "ISC"
 }
