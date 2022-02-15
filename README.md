@@ -19,9 +19,9 @@ This package can be used by ricochet contributors instead of having to modify th
 
 ### How to use it
 
-1.- ``` npm install ricochet-exchange-sfcontracts-used```
+- ``` npm install ricochet-exchange-sfcontracts-used```
 
-2.- Replace *@superfluid-finance/ethereum-contracts* by *ricochet-exchange-sfcontracts-used* in the *import* expressions.
+- Replace *@superfluid-finance* by *ricochet-exchange-sfcontracts-used* **only** in the import expressions starting with *import "@superfluid-finance/ethereum-contracts"*. 
 
-3.- The dependency *@superfluid-finance/ethereum-contracts* can be removed from the *package.json* file.
+- The dependency *@superfluid-finance/ethereum-contracts* can be removed from the *package.json* file.
 
